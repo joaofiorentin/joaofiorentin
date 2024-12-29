@@ -12,12 +12,10 @@
 </p>
 
 <!-- Dropdown -->
-<details>
-  <summary>👨‍💻 Mais sobre minha trajetória</summary>
-
-
+<p>
   - 💬 Atuo na área de análise de dados e planejamento estratégico, com foco em Power BI e Python, utilizando esses conhecimentos para gerar insights que otimizam processos e facilitam a tomada de decisões. Estou em constante evolução nas áreas de estatística, Inteligência Artificial e Machine Learning, com o objetivo de aplicar essas tecnologias para desenvolver soluções inovadoras e impactantes. Tenho como objetivo utilizar minha expertise em dados, automatização e análise estratégica para contribuir no desenvolvimento de soluções tecnológicas de alto impacto.    
-</details>
+</p>
+
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@joao.fiorentin1)
