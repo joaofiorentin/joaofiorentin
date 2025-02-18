@@ -17,7 +17,7 @@
   <p>
     💬 Atuo na área de análise de dados e planejamento estratégico, com foco em Power BI e Python, utilizando esses conhecimentos para gerar insights que otimizam processos e facilitam a tomada de decisões. 
     
-  Estou em constante evolução nas áreas de estatística, Inteligência Artificial e Machine Learning, com o objetivo de aplicar essas tecnologias para desenvolver soluções inovadoras e impactantes. Tenho como objetivo utilizar minha expertise em dados, automatização e análise estratégica para contribuir no desenvolvimento de soluções tecnológicas de alto impacto.
+  Estou em constante evolução nas áreas de Estatística, Inteligência Artificial e Machine Learning, com o objetivo de aplicar essas tecnologias para desenvolver soluções inovadoras e impactantes. Tenho como objetivo utilizar minha expertise em dados, automatização e análise estratégica para contribuir no desenvolvimento de soluções tecnológicas de alto impacto.
   </p>
 </div>
 
