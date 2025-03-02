@@ -1,23 +1,23 @@
 <!-- Título -->
 <div id="user-content-toc" style="text-align: center;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=25&pause=1000&color=FDFDFD&center=true&vCenter=true&width=435&lines=Engenheiro de dados em formação!" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=25&pause=1000&color=FDFDFD&center=true&vCenter=true&width=435&lines=AI and Automation Developer Jr" alt="Typing SVG"></a>
 </div>
 
 <!-- Apresentação -->
 <p>
-  Eai! 👋, Eu sou João Fiorentin, estudante de Estatística e focado em Engenharia de Dados.
+  Hello! 👋, My name is João Fiorentin, statistics student focused on Data Science.
 </p>
 
 <p>
-  🔭 Atualmente, trabalho com análise de dados e estatística, focando em Power BI e Python. Busco me especializar em Inteligência Artificial e Machine Learning para contribuir com soluções inovadoras.
+  🔭 Currently, I work in AI development, with a specific focus on Deep Learning and Machine Learning, where I design and implement advanced models to solve complex real-world problems. My work involves leveraging cutting-edge technologies to create innovative AI solutions that optimize performance and drive efficiency across various applications.
 </p>
 
 <!-- Dropdown com mais detalhes -->
 <div style="background-color: #f4f4f4; padding: 15px; border-radius: 8px; margin-top: 20px;">
   <p>
-    💬 Atuo na área de análise de dados e planejamento estratégico, com foco em Power BI e Python, utilizando esses conhecimentos para gerar insights que otimizam processos e facilitam a tomada de decisões. 
+    💬 I am actively involved in the field of Automation and AI, specializing in statistical modeling to drive the development of intelligent systems. My role encompasses managing AI projects from conception to completion, ensuring the integration of robust analytical techniques that contribute to the successful deployment of AI-driven solutions.
     
-  Estou em constante evolução nas áreas de Estatística, Inteligência Artificial e Machine Learning, com o objetivo de aplicar essas tecnologias para desenvolver soluções inovadoras e impactantes. Tenho como objetivo utilizar minha expertise em dados, automatização e análise estratégica para contribuir no desenvolvimento de soluções tecnológicas de alto impacto.
+With a strong emphasis on statistics, I apply data-driven methodologies to solve problems and generate actionable insights. By utilizing statistical analysis and advanced modeling techniques, I strive to identify patterns and trends that inform decision-making and improve operational outcomes.
   </p>
 </div>
 
