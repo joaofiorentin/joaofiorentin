@@ -17,7 +17,7 @@
   <p>
     💬 I am actively involved in the field of Automation and AI, specializing in statistical modeling to drive the development of intelligent systems. My role encompasses managing AI projects from conception to completion, ensuring the integration of robust analytical techniques that contribute to the successful deployment of AI-driven solutions.
     
-With a strong emphasis on statistics, I apply data-driven methodologies to solve problems and generate actionable insights. By utilizing statistical analysis and advanced modeling techniques, I strive to identify patterns and trends that inform decision-making and improve operational outcomes.
+💬 With a strong emphasis on statistics, I apply data-driven methodologies to solve problems and generate actionable insights. By utilizing statistical analysis and advanced modeling techniques, I strive to identify patterns and trends that inform decision-making and improve operational outcomes.
   </p>
 </div>
 
