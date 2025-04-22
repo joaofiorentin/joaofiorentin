@@ -1,7 +1,3 @@
-<!-- Título -->
-<div id="user-content-toc" style="text-align: center;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=25&pause=1000&color=FDFDFD&center=true&vCenter=true&width=435&lines=AI and Automation Developer Jr" alt="Typing SVG"></a>
-</div>
 
 <!-- Apresentação -->
 <p>
