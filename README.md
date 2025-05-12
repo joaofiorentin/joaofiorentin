@@ -1,71 +1,71 @@
+<h1 align="center">João Fiorentin</h1>
+<h3 align="center">Data Scientist | AI & Automation Developer | Statistical Modeling Specialist</h3>
 
-<!-- Apresentação -->
-<p>
-  Hello! 👋, My name is João Fiorentin, statistics student focused on Data Science.
+---
+
+## Perfil Profissional
+
+Atuo no desenvolvimento de soluções em Ciência de Dados, Inteligência Artificial e Automação Inteligente, com foco em otimização de processos, escalabilidade operacional e decisões orientadas por dados. Minha abordagem combina rigor estatístico, modelagem preditiva e tecnologias de automação para transformar dados em valor estratégico.
+
+**Áreas de especialização:**
+- Aprendizado de máquina supervisionado e não supervisionado
+- Modelagem estatística e inferência aplicada
+- Automação de processos com RPA e scripts inteligentes
+- Integração de soluções de IA a ambientes operacionais
+
+---
+
+## Competências Técnicas
+
+| Categoria                 | Ferramentas e Tecnologias                                                  |
+|--------------------------|-----------------------------------------------------------------------------|
+| Linguagens               | Python, SQL                                                                 |
+| Bibliotecas Python       | Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Statsmodels              |
+| Frameworks de IA         | TensorFlow, Keras, PyTorch (fundamentos)                                   |
+| Automação & RPA          | Python scripting, Selenium, PyAutoGUI, Pandas Automation, OpenRPA          |
+| Banco de Dados           | MySQL, PostgreSQL                                                           |
+| Infraestrutura & Versionamento | Git, Linux, Jupyter, MLflow                                              |
+| Estatística Aplicada     | Séries Temporais, Modelos Lineares, Testes de Hipóteses, Análise Bayesiana |
+
+---
+
+## Projetos de Destaque
+
+**Automação de Processos Operacionais via RPA**  
+Desenvolvimento de bots para coleta, transformação e consolidação de dados operacionais, substituindo tarefas manuais repetitivas.  
+_Resultados: Redução de 85% no tempo de execução diária e eliminação de erros operacionais._  
+_Tecnologias: Python, Selenium, PyAutoGUI_
+
+**Previsão de Demanda com Modelagem Estatística**  
+Modelos preditivos para estimar demanda em canais logísticos com variações sazonais.  
+_Resultados: 18% de redução no erro médio absoluto._  
+_Tecnologias: Python, Scikit-learn, TimeSeriesSplit_
+
+**Pipeline de Dados Automatizado para Área de Crédito**  
+Integração e limpeza de dados para cálculo de risco de crédito, com agendamento automatizado e versionamento dos scripts.  
+_Resultados: Processo 40% mais rápido e mais transparente._  
+_Tecnologias: Python, SQL, Airflow_
+
+---
+
+## GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaofiorentin&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
-<p>
-  🔭 Currently, I work in AI development, with a specific focus on Deep Learning and Machine Learning, where I design and implement advanced models to solve complex real-world problems. My work involves leveraging cutting-edge technologies to create innovative AI solutions that optimize performance and drive efficiency across various applications.
-</p>
+---
 
-<!-- Dropdown com mais detalhes -->
-<div style="background-color: #f4f4f4; padding: 15px; border-radius: 8px; margin-top: 20px;">
-  <p>
-    💬 I am actively involved in the field of Automation and AI, specializing in statistical modeling to drive the development of intelligent systems. My role encompasses managing AI projects from conception to completion, ensuring the integration of robust analytical techniques that contribute to the successful deployment of AI-driven solutions.
-    
-💬 With a strong emphasis on statistics, I apply data-driven methodologies to solve problems and generate actionable insights. By utilizing statistical analysis and advanced modeling techniques, I strive to identify patterns and trends that inform decision-making and improve operational outcomes.
-  </p>
-</div>
+## Contato
 
-<!-- Links -->
-<div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-  <a href="https://www.youtube.com/@joao.fiorentin1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
+<p align="center">
   <a href="https://www.linkedin.com/in/joaofiorentin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@joao.fiorentin" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-20BEFF?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
   </a>
-</div>
-
-<!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaofiorentin&show_icons=true&theme=gotham" alt="GitHub Stats">
-</div>
-
-<!-- GitHub Contribution Snake -->
-<picture style="display: flex; justify-content: center; margin-top: 20px;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaofiorentin/joaofiorentin/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaofiorentin/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/joaofiorentin/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!-- Skills -->
-<div style="margin-top: 40px; text-align: center;">
-  <h2>🔥 Skills</h2>
-
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
-    <!-- Programming Languages -->
-    <div style="flex-basis: 45%;">
-      <h3>Programming Languages</h3>
-      <div style="display: flex; justify-content: center; gap: 15px;">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" alt="MySQL" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40">
-      </div>
-    </div>
-  
-  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-    <!-- Libraries -->
-    <div style="flex-basis: 45%;">
-      <h3>Libraries</h3>
-      <div style="display: flex; justify-content: center; gap: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="Numpy" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="40">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="40">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40">
-      </div>
-    </div>
-  </div>
-</div>
+  <a href="https://www.youtube.com/@joao.fiorentin1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+</p>
