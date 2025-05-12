@@ -51,21 +51,6 @@ _Tecnologias: Python, SQL, Airflow_
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaofiorentin&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
-## Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/joaofiorentin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@joao.fiorentin" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@joao.fiorentin1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=joaofiorentin&show_icons=true&theme=github_dark" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofiorentin&layout=compact&theme=github_dark" width="37%">
 </p>
