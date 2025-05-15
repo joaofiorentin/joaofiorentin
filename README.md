@@ -1,57 +1,57 @@
 <h1 align="center">João Fiorentin</h1>
-<h3 align="center">Data Scientist | AI & Automation Developer | Statistical Modeling Specialist</h3>
+<h3 align="center">Data Scientist | AI & Automation Developer | Statistical Modeling Expert</h3>
 
 ---
 
-## Perfil Profissional
+## Professional Profile
 
-Atuo no desenvolvimento de soluções em Ciência de Dados, Inteligência Artificial e Automação Inteligente, com foco em otimização de processos, escalabilidade operacional e decisões orientadas por dados. Minha abordagem combina rigor estatístico, modelagem preditiva e tecnologias de automação para transformar dados em valor estratégico.
+I specialize in delivering advanced Data Science, Artificial Intelligence, and Intelligent Automation solutions focused on process optimization, operational scalability, and data-driven decision making. My approach combines statistical rigor, predictive modeling, and automation technologies to convert data into strategic business value.
 
-**Áreas de especialização:**
-- Aprendizado de máquina supervisionado e não supervisionado
-- Modelagem estatística e inferência aplicada
-- Automação de processos com RPA e scripts inteligentes
-- Integração de soluções de IA a ambientes operacionais
-
----
-
-## Competências Técnicas
-
-| Categoria                 | Ferramentas e Tecnologias                                                  |
-|--------------------------|-----------------------------------------------------------------------------|
-| Linguagens               | Python, SQL                                                                 |
-| Bibliotecas Python       | Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Statsmodels              |
-| Frameworks de IA         | TensorFlow, Keras, PyTorch (fundamentos)                                   |
-| Automação & RPA          | Python scripting, Selenium, PyAutoGUI, Pandas Automation, OpenRPA          |
-| Banco de Dados           | MySQL, PostgreSQL                                                           |
-| Infraestrutura & Versionamento | Git, Linux, Jupyter, MLflow                                              |
-| Estatística Aplicada     | Séries Temporais, Modelos Lineares, Testes de Hipóteses, Análise Bayesiana |
+**Areas of Expertise:**  
+- Supervised and unsupervised machine learning  
+- Statistical modeling and applied inference  
+- Process automation with RPA and smart scripting  
+- AI integration into operational environments  
 
 ---
 
-## Projetos de Destaque
+## Technical Skills
 
-**Automação de Processos Operacionais via RPA**  
-Desenvolvimento de bots para coleta, transformação e consolidação de dados operacionais, substituindo tarefas manuais repetitivas.  
-_Resultados: Redução de 85% no tempo de execução diária e eliminação de erros operacionais._  
-_Tecnologias: Python, Selenium, PyAutoGUI_
+| Category                  | Tools & Technologies                                                  |
+|---------------------------|----------------------------------------------------------------------|
+| Programming Languages      | Python, SQL                                                          |
+| Python Libraries           | Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Statsmodels        |
+| AI Frameworks              | TensorFlow, Keras, PyTorch (fundamentals)                           |
+| Automation & RPA           | Python scripting, Selenium, PyAutoGUI, Pandas Automation, OpenRPA    |
+| Databases                  | MySQL, PostgreSQL                                                    |
+| Infrastructure & Version Control | Git, Linux, Jupyter, MLflow                                    |
+| Applied Statistics         | Time Series, Linear Models, Hypothesis Testing, Bayesian Analysis    |
 
-**Previsão de Demanda com Modelagem Estatística**  
-Modelos preditivos para estimar demanda em canais logísticos com variações sazonais.  
-_Resultados: 18% de redução no erro médio absoluto._  
-_Tecnologias: Python, Scikit-learn, TimeSeriesSplit_
+---
 
-**Pipeline de Dados Automatizado para Área de Crédito**  
-Integração e limpeza de dados para cálculo de risco de crédito, com agendamento automatizado e versionamento dos scripts.  
-_Resultados: Processo 40% mais rápido e mais transparente._  
-_Tecnologias: Python, SQL, Airflow_
+## Key Projects
+
+**Operational Process Automation via RPA**  
+Developed bots for data collection, transformation, and consolidation, automating repetitive manual tasks.  
+_Result: Reduced daily processing time by 85% and eliminated operational errors._  
+_Technologies: Python, Selenium, PyAutoGUI_
+
+**Demand Forecasting Using Statistical Modeling**  
+Built predictive models to forecast demand with seasonal variation considerations.  
+_Result: 18% reduction in mean absolute error._  
+_Technologies: Python, Scikit-learn, TimeSeriesSplit_
+
+**Automated Data Pipeline for Credit Risk Assessment**  
+Created an automated data pipeline for credit risk calculation, with scheduling and version control.  
+_Result: Process 40% faster and increased transparency._  
+_Technologies: Python, SQL, Apache Airflow_
 
 ---
 
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaofiorentin&show_icons=true&theme=github_dark" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofiorentin&layout=compact&theme=github_dark" width="37%">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaofiorentin&radius=16&theme=nightowl&area=true&order=5&bg_color=green&point=green&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=joaofiorentin&show_icons=true&theme=github_dark" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofiorentin&layout=compact&theme=github_dark" width="37%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaofiorentin&radius=16&theme=nightowl&area=true&order=5&bg_color=green&point=green&hide_border=true&hide_title=true" height="300" alt="GitHub activity graph" />
 </p>
