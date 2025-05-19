@@ -51,7 +51,7 @@ _Technologies: Python, SQL, Apache Airflow_
 ## GitHub Insights
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaofiorentin&radius=16&theme=nightowl&area=true&order=5&bg_color=green&point=green&hide_border=true&hide_title=true" height="300" alt="GitHub activity graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=joaofiorentin&show_icons=true&theme=github_dark" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaofiorentin&layout=compact&theme=github_dark" width="37%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaofiorentin&radius=16&theme=nightowl&area=true&order=5&bg_color=green&point=green&hide_border=true&hide_title=true" height="300" alt="GitHub activity graph" />
 </p>
