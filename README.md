@@ -29,25 +29,6 @@ I design and implement scalable data engineering and automation solutions focuse
 
 ---
 
-## Key Projects
-
-**Enterprise RPA for Operational Workflow Automation**  
-Developed Python-based bots to automate repetitive browser tasks, data extraction, and system inputs.  
-- Result: Reduced manual workload by over 80%  
-- Stack: Python, Selenium, PyAutoGUI  
-
-**ETL Pipeline for Analytical Reporting**  
-Designed and deployed an ETL workflow to extract raw data from internal systems, transform it, and load it into a centralized PostgreSQL database for reporting.  
-- Result: Enabled daily automated updates to BI dashboards  
-- Stack: Python, SQL, Airflow  
-
-**API-Based Data Integration Framework**  
-Built a scalable solution to retrieve, parse, and store data from external REST APIs, with automatic error handling and logging.  
-- Result: Improved data availability and minimized downtime  
-- Stack: Python, REST APIs, PostgreSQL  
-
----
-
 ## GitHub Insights
 
 <p align="center">
