@@ -1,17 +1,18 @@
-<h1 align="center">João Fiorentin</h1>
-<h3 align="center">Data Scientist | AI & Automation Developer | Statistical Modeling Expert</h3>
+<h1 align="center">João Fiorentin</h1>  
+<h3 align="center">Data Engineer | Automation Developer | RPA Specialist</h3>  
 
 ---
 
 ## Professional Profile
 
-I specialize in delivering advanced Data Science, Artificial Intelligence, and Intelligent Automation solutions focused on process optimization, operational scalability, and data-driven decision making. My approach combines statistical rigor, predictive modeling, and automation technologies to convert data into strategic business value.
+I design and implement scalable data engineering and automation solutions focused on efficient data flow, robust infrastructure, and operational reliability. My work is centered on building ETL/ELT pipelines, automating repetitive processes through RPA, and integrating structured and unstructured data from various sources. I am committed to creating maintainable, version-controlled, and production-ready workflows.
 
-**Areas of Expertise:**  
-- Supervised and unsupervised machine learning  
-- Statistical modeling and applied inference  
-- Process automation with RPA and smart scripting  
-- AI integration into operational environments  
+**Core Competencies:**  
+- ETL/ELT pipeline development  
+- Data pipeline orchestration and scheduling  
+- Robotic Process Automation (RPA) for workflow optimization  
+- API integration and web automation  
+- Infrastructure automation and data integrity enforcement  
 
 ---
 
@@ -19,32 +20,31 @@ I specialize in delivering advanced Data Science, Artificial Intelligence, and I
 
 | Category                  | Tools & Technologies                                                  |
 |---------------------------|----------------------------------------------------------------------|
-| Programming Languages      | Python, SQL                                                          |
-| Python Libraries           | Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Statsmodels        |
-| AI Frameworks              | TensorFlow, Keras, PyTorch (fundamentals)                           |
-| Automation & RPA           | Python scripting, Selenium, PyAutoGUI, Pandas Automation, OpenRPA    |
-| Databases                  | MySQL, PostgreSQL                                                    |
-| Infrastructure & Version Control | Git, Linux, Jupyter, MLflow                                    |
-| Applied Statistics         | Time Series, Linear Models, Hypothesis Testing, Bayesian Analysis    |
+| Programming Languages     | Python, SQL, Shell Script                                             |
+| Data Engineering Tools    | Apache Airflow, DBT, Pandas, PySpark (basics)                         |
+| Databases & Storage       | MySQL, PostgreSQL, Azure SQL, AWS S3                                  |
+| Automation & RPA          | Python scripting, Selenium, PyAutoGUI, Power Automate, OpenRPA        |
+| Data Integration          | REST APIs, JSON, XML, Web Scraping                                    |
+| Orchestration & Infra     | Apache Airflow, Power Automate, Git, Linux, CronJobs                  |
 
 ---
 
 ## Key Projects
 
-**Operational Process Automation via RPA**  
-Developed bots for data collection, transformation, and consolidation, automating repetitive manual tasks.  
-_Result: Reduced daily processing time by 85% and eliminated operational errors._  
-_Technologies: Python, Selenium, PyAutoGUI_
+**Enterprise RPA for Operational Workflow Automation**  
+Developed Python-based bots to automate repetitive browser tasks, data extraction, and system inputs.  
+- Result: Reduced manual workload by over 80%  
+- Stack: Python, Selenium, PyAutoGUI  
 
-**Demand Forecasting Using Statistical Modeling**  
-Built predictive models to forecast demand with seasonal variation considerations.  
-_Result: 18% reduction in mean absolute error._  
-_Technologies: Python, Scikit-learn, TimeSeriesSplit_
+**ETL Pipeline for Analytical Reporting**  
+Designed and deployed an ETL workflow to extract raw data from internal systems, transform it, and load it into a centralized PostgreSQL database for reporting.  
+- Result: Enabled daily automated updates to BI dashboards  
+- Stack: Python, SQL, Airflow  
 
-**Automated Data Pipeline for Credit Risk Assessment**  
-Created an automated data pipeline for credit risk calculation, with scheduling and version control.  
-_Result: Process 40% faster and increased transparency._  
-_Technologies: Python, SQL, Apache Airflow_
+**API-Based Data Integration Framework**  
+Built a scalable solution to retrieve, parse, and store data from external REST APIs, with automatic error handling and logging.  
+- Result: Improved data availability and minimized downtime  
+- Stack: Python, REST APIs, PostgreSQL  
 
 ---
 
