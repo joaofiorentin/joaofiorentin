@@ -1,5 +1,5 @@
 <h1 align="center">João Fiorentin</h1>  
-<h3 align="center">Data Engineer/h3>  
+<h3 align="center">Data Engineer </h3>  
 
 ---
 
