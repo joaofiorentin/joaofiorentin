@@ -1,3 +1,5 @@
+<div align="center">
+
 # João Fiorentin
 ### Data Engineer
 
@@ -6,14 +8,6 @@
 ## Professional Profile  
 Data Engineer skilled in building scalable data pipelines, managing databases, and ensuring high-quality, accessible data for analytics and business intelligence. Experienced in ETL, workflow automation, and cloud-based data solutions.
 
-**Core Skills:**  
-- ETL & Data Pipelines  
-- Database Design & Optimization  
-- Big Data & Cloud (AWS, GCP, Spark)  
-- Workflow Automation & Orchestration  
-- Data Quality & Governance  
-- Business Intelligence Support
-
 ---
 
 ## Technical Skills  
@@ -21,7 +15,7 @@ Data Engineer skilled in building scalable data pipelines, managing databases, a
 | Category            | Tools & Technologies                                |
 |--------------------|----------------------------------------------------|
 | Languages           | Python, SQL, R                                     |
-| Data Engineering    | Apache Airflow, Luigi, dbt, Prefect                |
+| Data Engineering    | Apache Airflow, dbt, Prefect                       |
 | Big Data & Cloud    | Spark, Hadoop, AWS S3/Redshift/Lambda, BigQuery   |
 | Databases           | MySQL, PostgreSQL, SQLite, MongoDB, Snowflake     |
 | Workflow & Infra    | Git, Linux, Docker, Power Automate                 |
@@ -31,6 +25,6 @@ Data Engineer skilled in building scalable data pipelines, managing databases, a
 
 ## GitHub Insights  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joaofiorentin&radius=16&theme=nightowl&area=true&order=5&bg_color=blue&point=blue&hide_border=true&hide_title=true" height="250" alt="GitHub activity graph" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaofiorentin&radius=16&theme=nightowl&area=true&order=5&bg_color=blue&point=blue&hide_border=true&hide_title=true" height="250" alt="GitHub activity graph" />
+
+</div>
