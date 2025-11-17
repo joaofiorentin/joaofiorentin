@@ -1,25 +1,26 @@
 <div align="center">
 
-# João Fiorentin
-### Data Engineer
+# João Fiorentin  
+### AI Developer
 
 ---
 
 ## Professional Profile  
-Data Engineer skilled in building scalable data pipelines, managing databases, and ensuring high-quality, accessible data for analytics and business intelligence. Experienced in ETL, workflow automation, and cloud-based data solutions.
+AI Developer skilled in building intelligent systems, training and deploying machine learning models, and designing scalable MLOps pipelines. Experienced in deep learning, LLM integration, workflow automation, and cloud-based AI solutions.
 
 ---
 
 ## Technical Skills  
 
-| Category            | Tools & Technologies                                |
-|--------------------|----------------------------------------------------|
-| Languages           | Python, SQL, R                                     |
-| Data Engineering    | Apache Airflow, dbt, Prefect                       |
-| Big Data & Cloud    | Spark, Hadoop, AWS S3/Redshift/Lambda, BigQuery   |
-| Databases           | MySQL, PostgreSQL, SQLite, MongoDB, Snowflake     |
-| Workflow & Infra    | Git, Linux, Docker, Power Automate                 |
-| Visualization       | Power BI, Tableau, Plotly                          |
+| Category            | Tools & Technologies                                           |
+|--------------------|----------------------------------------------------------------|
+| Languages           | Python, SQL, R                                                 |
+| Machine Learning    | Scikit-learn, XGBoost, LightGBM                                |
+| Deep Learning       | PyTorch, TensorFlow, Keras, HuggingFace Transformers          |
+| GenAI & LLMs        | LangChain, OpenAI API, Vector Stores, LoRA, RAG Pipelines     |
+| MLOps & Infra       | MLflow, DVC, Docker, Linux, Git, Airflow, Prefect             |
+| Cloud & Big Data    | AWS (S3/Lambda/SageMaker), GCP, BigQuery, Spark               |
+| Visualization       | Power BI, Tableau, Plotly                                      |
 
 ---
 
